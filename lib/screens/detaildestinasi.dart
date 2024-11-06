@@ -1,5 +1,5 @@
-import 'package:aslabtif_travel/const.dart';
 import 'package:aslabtif_travel/models/destination_model.dart';
+import 'package:aslabtif_travel/utils/const.dart';
 import 'package:flutter/material.dart';
 
 class DetailDestinasi extends StatefulWidget {
