@@ -77,10 +77,10 @@ flutter:
   fonts:
     - family: NunitoSans
       fonts:
-        - asset: assets/font/NunitoSans_10pt-Regular.ttf
+        - asset: assets/fonts/NunitoSans_10pt-Regular.ttf
     - family: NunitoSansBold
       fonts:
-        - asset: assets/font/NunitoSans_10pt-ExtraBold.ttf
+        - asset: assets/fonts/NunitoSans_10pt-ExtraBold.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
