@@ -1,4 +1,6 @@
 import 'package:aslabtif_travel/materimodulscreens/formscreen.dart';
+import 'package:aslabtif_travel/materimodulscreens/modul6/expandedscreen.dart';
+import 'package:aslabtif_travel/materimodulscreens/modul6/listviewscreen.dart';
 import 'package:aslabtif_travel/screens/splashscreen.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +18,7 @@ class TravelApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: "NunitoSans",
       ),
-      home: FormScreen(),
+      home: ExpandedScreen(),
     );
   }
 }
